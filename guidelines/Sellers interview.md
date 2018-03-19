@@ -15,7 +15,8 @@ Acquire insights on sellers profiles, type of property being sold, reasons for s
 ### 2. Target :
 **Sellers - currently selling:**
  - Phone - 20 pax by Fri 23rd March
- - Visits (Toulouse) - 20 week of 26th March
+ - Visits (Toulouse) - 20 week of 26th March.
+
 **Sellers - sold:**
 - Phone - 10
 
